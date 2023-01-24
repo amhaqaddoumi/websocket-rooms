@@ -1,0 +1,13 @@
+{
+  "name": "com.amhaqaddoumi.websocket-rooms",
+  "version": "0.0.1",
+  "displayName": "Websocket Rooms",
+  "description": "Create rooms using Websocket Transport",
+  "dependencies": {
+    "com.amhaqaddoumi.websocket-transport" : "https://github.com/amhaqaddoumi/websocket-transport.git"
+  },
+  "author": {
+    "name": "Adel Qaddoumi",
+    "email": "a.m.h.a.qaddoumi@llinc.leidenuniv.nl"
+  }
+}
