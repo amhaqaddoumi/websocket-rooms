@@ -1,0 +1,15 @@
+{
+  "name": "com.llinc.xrsim.services",
+  "version": "0.0.1",
+  "displayName": "XRSim Services",
+  "description": "Common XRSim Services",
+  "unity": "2021.3",
+  "unityRelease": "4f1",
+  "dependencies": {},
+  "author": {
+    "name": "Adel Qaddoumi",
+    "email": "a.m.h.a.qaddoumi@sea.leidenuniv.nl",
+    "url": "https://github.com/amhaqaddoumi"
+  },
+  "type": "library"
+}
