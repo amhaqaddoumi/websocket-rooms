@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "displayName": "Websocket Rooms",
   "description": "Create rooms using Websocket Transport",
-  "dependencies": {
+  "gitDependencies": {
     "com.amhaqaddoumi.websocket-transport" : "https://github.com/amhaqaddoumi/websocket-transport.git"
   },
   "author": {
